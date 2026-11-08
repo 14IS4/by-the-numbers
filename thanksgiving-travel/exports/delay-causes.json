@@ -1,0 +1,16 @@
+[
+  {
+    "segment": "return",
+    "late_aircraft": 5.24,
+    "airline": 4.53,
+    "air_system": 3.04,
+    "weather": 0.69
+  },
+  {
+    "segment": "baseline",
+    "late_aircraft": 3.25,
+    "airline": 3.28,
+    "air_system": 1.82,
+    "weather": 0.33
+  }
+]

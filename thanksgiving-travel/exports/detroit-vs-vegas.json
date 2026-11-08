@@ -1,0 +1,57 @@
+[
+  {
+    "year": 2015,
+    "dtw_pct": 88.1,
+    "las_pct": 86.4
+  },
+  {
+    "year": 2016,
+    "dtw_pct": 83.9,
+    "las_pct": 78.9
+  },
+  {
+    "year": 2017,
+    "dtw_pct": 90.8,
+    "las_pct": 86.0
+  },
+  {
+    "year": 2018,
+    "dtw_pct": 76.0,
+    "las_pct": 81.8
+  },
+  {
+    "year": 2019,
+    "dtw_pct": 66.8,
+    "las_pct": 75.2
+  },
+  {
+    "year": 2020,
+    "dtw_pct": 82.9,
+    "las_pct": 94.3
+  },
+  {
+    "year": 2021,
+    "dtw_pct": 60.4,
+    "las_pct": 85.6
+  },
+  {
+    "year": 2022,
+    "dtw_pct": 86.3,
+    "las_pct": 72.8
+  },
+  {
+    "year": 2023,
+    "dtw_pct": 56.7,
+    "las_pct": 86.4
+  },
+  {
+    "year": 2024,
+    "dtw_pct": 54.3,
+    "las_pct": 86.9
+  },
+  {
+    "year": 2025,
+    "dtw_pct": 40.6,
+    "las_pct": 72.4
+  }
+]

@@ -1,0 +1,23 @@
+name: thanksgiving_travel
+version: "1.0.0"
+config-version: 2
+profile: thanksgiving_travel
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+target-path: "target"
+
+vars:
+  raw_glob: "data/raw/ontime_*.csv"
+  # 2020: pandemic traffic. 2025: FAA-ordered flight cuts from Nov 7 distort the November baseline.
+  baseline_excluded_years: [2020, 2025]
+  pandemic_years: [2020]
+
+models:
+  thanksgiving_travel:
+    staging:
+      +materialized: table
+    intermediate:
+      +materialized: table
+    marts:
+      +materialized: table

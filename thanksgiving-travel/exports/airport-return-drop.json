@@ -1,0 +1,212 @@
+[
+  {
+    "airport": "DTW",
+    "city": "Detroit, MI",
+    "baseline_pct": 86.4,
+    "return_pct": 73.2,
+    "change_pts": -13.1
+  },
+  {
+    "airport": "MSP",
+    "city": "Minneapolis, MN",
+    "baseline_pct": 86.6,
+    "return_pct": 75.1,
+    "change_pts": -11.5
+  },
+  {
+    "airport": "JFK",
+    "city": "New York, NY",
+    "baseline_pct": 86.2,
+    "return_pct": 75.4,
+    "change_pts": -10.8
+  },
+  {
+    "airport": "SLC",
+    "city": "Salt Lake City, UT",
+    "baseline_pct": 89.8,
+    "return_pct": 79.6,
+    "change_pts": -10.2
+  },
+  {
+    "airport": "FLL",
+    "city": "Fort Lauderdale, FL",
+    "baseline_pct": 85.2,
+    "return_pct": 75.4,
+    "change_pts": -9.8
+  },
+  {
+    "airport": "ORD",
+    "city": "Chicago, IL",
+    "baseline_pct": 81.7,
+    "return_pct": 72.5,
+    "change_pts": -9.2
+  },
+  {
+    "airport": "SFO",
+    "city": "San Francisco, CA",
+    "baseline_pct": 82.2,
+    "return_pct": 73.4,
+    "change_pts": -8.8
+  },
+  {
+    "airport": "LGA",
+    "city": "New York, NY",
+    "baseline_pct": 82.1,
+    "return_pct": 74.4,
+    "change_pts": -7.7
+  },
+  {
+    "airport": "EWR",
+    "city": "Newark, NJ",
+    "baseline_pct": 80.2,
+    "return_pct": 72.6,
+    "change_pts": -7.6
+  },
+  {
+    "airport": "SEA",
+    "city": "Seattle, WA",
+    "baseline_pct": 83.5,
+    "return_pct": 76.0,
+    "change_pts": -7.5
+  },
+  {
+    "airport": "DCA",
+    "city": "Washington, DC",
+    "baseline_pct": 85.4,
+    "return_pct": 78.1,
+    "change_pts": -7.3
+  },
+  {
+    "airport": "TPA",
+    "city": "Tampa, FL",
+    "baseline_pct": 87.8,
+    "return_pct": 80.6,
+    "change_pts": -7.2
+  },
+  {
+    "airport": "PHL",
+    "city": "Philadelphia, PA",
+    "baseline_pct": 85.5,
+    "return_pct": 78.3,
+    "change_pts": -7.2
+  },
+  {
+    "airport": "BNA",
+    "city": "Nashville, TN",
+    "baseline_pct": 85.5,
+    "return_pct": 78.5,
+    "change_pts": -7.0
+  },
+  {
+    "airport": "MIA",
+    "city": "Miami, FL",
+    "baseline_pct": 83.2,
+    "return_pct": 76.4,
+    "change_pts": -6.8
+  },
+  {
+    "airport": "BOS",
+    "city": "Boston, MA",
+    "baseline_pct": 85.1,
+    "return_pct": 78.5,
+    "change_pts": -6.7
+  },
+  {
+    "airport": "MCO",
+    "city": "Orlando, FL",
+    "baseline_pct": 82.9,
+    "return_pct": 76.3,
+    "change_pts": -6.6
+  },
+  {
+    "airport": "CLT",
+    "city": "Charlotte, NC",
+    "baseline_pct": 84.4,
+    "return_pct": 78.2,
+    "change_pts": -6.3
+  },
+  {
+    "airport": "BWI",
+    "city": "Baltimore, MD",
+    "baseline_pct": 85.9,
+    "return_pct": 79.8,
+    "change_pts": -6.1
+  },
+  {
+    "airport": "MDW",
+    "city": "Chicago, IL",
+    "baseline_pct": 83.3,
+    "return_pct": 77.9,
+    "change_pts": -5.4
+  },
+  {
+    "airport": "ATL",
+    "city": "Atlanta, GA",
+    "baseline_pct": 87.5,
+    "return_pct": 83.0,
+    "change_pts": -4.5
+  },
+  {
+    "airport": "DFW",
+    "city": "Dallas/Fort Worth, TX",
+    "baseline_pct": 81.0,
+    "return_pct": 76.8,
+    "change_pts": -4.2
+  },
+  {
+    "airport": "SAN",
+    "city": "San Diego, CA",
+    "baseline_pct": 84.5,
+    "return_pct": 80.5,
+    "change_pts": -4.0
+  },
+  {
+    "airport": "DAL",
+    "city": "Dallas, TX",
+    "baseline_pct": 80.9,
+    "return_pct": 78.3,
+    "change_pts": -2.5
+  },
+  {
+    "airport": "DEN",
+    "city": "Denver, CO",
+    "baseline_pct": 83.1,
+    "return_pct": 80.7,
+    "change_pts": -2.4
+  },
+  {
+    "airport": "PHX",
+    "city": "Phoenix, AZ",
+    "baseline_pct": 84.3,
+    "return_pct": 82.0,
+    "change_pts": -2.3
+  },
+  {
+    "airport": "LAX",
+    "city": "Los Angeles, CA",
+    "baseline_pct": 84.1,
+    "return_pct": 81.8,
+    "change_pts": -2.3
+  },
+  {
+    "airport": "IAH",
+    "city": "Houston, TX",
+    "baseline_pct": 83.8,
+    "return_pct": 82.1,
+    "change_pts": -1.7
+  },
+  {
+    "airport": "AUS",
+    "city": "Austin, TX",
+    "baseline_pct": 83.1,
+    "return_pct": 81.4,
+    "change_pts": -1.7
+  },
+  {
+    "airport": "LAS",
+    "city": "Las Vegas, NV",
+    "baseline_pct": 82.8,
+    "return_pct": 82.2,
+    "change_pts": -0.6
+  }
+]

@@ -1,0 +1,7 @@
+thanksgiving_travel:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: data/thanksgiving_travel.duckdb
+      threads: 4

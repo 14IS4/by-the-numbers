@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-11-01",
+    "cancel_pct": 0.45,
+    "air_system_share_pct": 19.2,
+    "normal_cancel_pct": 0.75
+  },
+  {
+    "date": "2025-11-02",
+    "cancel_pct": 0.52,
+    "air_system_share_pct": 64.8,
+    "normal_cancel_pct": 0.48
+  },
+  {
+    "date": "2025-11-03",
+    "cancel_pct": 0.12,
+    "air_system_share_pct": 25.0,
+    "normal_cancel_pct": 0.41
+  },
+  {
+    "date": "2025-11-04",
+    "cancel_pct": 0.42,
+    "air_system_share_pct": 23.0,
+    "normal_cancel_pct": 1.01
+  },
+  {
+    "date": "2025-11-05",
+    "cancel_pct": 0.55,
+    "air_system_share_pct": 66.3,
+    "normal_cancel_pct": 1.0
+  },
+  {
+    "date": "2025-11-06",
+    "cancel_pct": 0.57,
+    "air_system_share_pct": 67.0,
+    "normal_cancel_pct": 0.47
+  },
+  {
+    "date": "2025-11-07",
+    "cancel_pct": 3.95,
+    "air_system_share_pct": 82.3,
+    "normal_cancel_pct": 0.34
+  },
+  {
+    "date": "2025-11-08",
+    "cancel_pct": 7.49,
+    "air_system_share_pct": 71.9,
+    "normal_cancel_pct": 0.82
+  },
+  {
+    "date": "2025-11-09",
+    "cancel_pct": 12.13,
+    "air_system_share_pct": 62.7,
+    "normal_cancel_pct": 0.78
+  },
+  {
+    "date": "2025-11-10",
+    "cancel_pct": 9.78,
+    "air_system_share_pct": 62.5,
+    "normal_cancel_pct": 1.02
+  },
+  {
+    "date": "2025-11-11",
+    "cancel_pct": 5.27,
+    "air_system_share_pct": 84.3,
+    "normal_cancel_pct": 1.28
+  },
+  {
+    "date": "2025-11-12",
+    "cancel_pct": 3.66,
+    "air_system_share_pct": 91.6,
+    "normal_cancel_pct": 0.38
+  },
+  {
+    "date": "2025-11-13",
+    "cancel_pct": 3.8,
+    "air_system_share_pct": 85.7,
+    "normal_cancel_pct": 0.28
+  },
+  {
+    "date": "2025-11-14",
+    "cancel_pct": 2.31,
+    "air_system_share_pct": 83.9,
+    "normal_cancel_pct": 0.28
+  },
+  {
+    "date": "2025-11-15",
+    "cancel_pct": 1.37,
+    "air_system_share_pct": 84.7,
+    "normal_cancel_pct": 1.17
+  },
+  {
+    "date": "2025-11-16",
+    "cancel_pct": 0.37,
+    "air_system_share_pct": 71.1,
+    "normal_cancel_pct": 0.65
+  },
+  {
+    "date": "2025-11-17",
+    "cancel_pct": 0.19,
+    "air_system_share_pct": 75.7,
+    "normal_cancel_pct": 0.56
+  },
+  {
+    "date": "2025-11-18",
+    "cancel_pct": 0.06,
+    "air_system_share_pct": 10.0,
+    "normal_cancel_pct": 0.72
+  },
+  {
+    "date": "2025-11-19",
+    "cancel_pct": 0.07,
+    "air_system_share_pct": 0.0,
+    "normal_cancel_pct": 0.55
+  },
+  {
+    "date": "2025-11-20",
+    "cancel_pct": 3.9,
+    "air_system_share_pct": 18.2,
+    "normal_cancel_pct": 0.41
+  },
+  {
+    "date": "2025-11-21",
+    "cancel_pct": 1.11,
+    "air_system_share_pct": 6.5,
+    "normal_cancel_pct": 1.1
+  },
+  {
+    "date": "2025-11-22",
+    "cancel_pct": 0.21,
+    "air_system_share_pct": 10.0,
+    "normal_cancel_pct": 0.39
+  },
+  {
+    "date": "2025-11-23",
+    "cancel_pct": 0.17,
+    "air_system_share_pct": 0.0,
+    "normal_cancel_pct": 0.15
+  },
+  {
+    "date": "2025-11-24",
+    "cancel_pct": 1.06,
+    "air_system_share_pct": 14.6,
+    "normal_cancel_pct": 0.14
+  },
+  {
+    "date": "2025-11-25",
+    "cancel_pct": 0.22,
+    "air_system_share_pct": 2.2,
+    "normal_cancel_pct": 0.67
+  },
+  {
+    "date": "2025-11-26",
+    "cancel_pct": 0.3,
+    "air_system_share_pct": 6.5,
+    "normal_cancel_pct": 1.15
+  },
+  {
+    "date": "2025-11-27",
+    "cancel_pct": 0.15,
+    "air_system_share_pct": 0.0,
+    "normal_cancel_pct": 0.33
+  },
+  {
+    "date": "2025-11-28",
+    "cancel_pct": 0.34,
+    "air_system_share_pct": 14.3,
+    "normal_cancel_pct": 0.21
+  },
+  {
+    "date": "2025-11-29",
+    "cancel_pct": 8.37,
+    "air_system_share_pct": 1.5,
+    "normal_cancel_pct": 0.69
+  },
+  {
+    "date": "2025-11-30",
+    "cancel_pct": 3.85,
+    "air_system_share_pct": 10.0,
+    "normal_cancel_pct": 0.66
+  }
+]

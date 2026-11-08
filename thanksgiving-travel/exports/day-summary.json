@@ -1,0 +1,102 @@
+[
+  {
+    "day_offset": -5,
+    "day": "Saturday",
+    "flights": 16418,
+    "on_time_pct": 82.7,
+    "cancel_pct": 1.02,
+    "avg_delay_min": 2.3,
+    "worst_day_years": 1,
+    "years": 10
+  },
+  {
+    "day_offset": -4,
+    "day": "Sunday",
+    "flights": 18385,
+    "on_time_pct": 83.5,
+    "cancel_pct": 0.44,
+    "avg_delay_min": 1.6,
+    "worst_day_years": 1,
+    "years": 10
+  },
+  {
+    "day_offset": -3,
+    "day": "Monday",
+    "flights": 18366,
+    "on_time_pct": 85.7,
+    "cancel_pct": 0.36,
+    "avg_delay_min": -0.3,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": -2,
+    "day": "Tuesday",
+    "flights": 18933,
+    "on_time_pct": 84.1,
+    "cancel_pct": 0.45,
+    "avg_delay_min": 1.0,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": -1,
+    "day": "Wednesday",
+    "flights": 19384,
+    "on_time_pct": 85.1,
+    "cancel_pct": 0.18,
+    "avg_delay_min": 0.2,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": 0,
+    "day": "Thursday",
+    "flights": 11260,
+    "on_time_pct": 91.4,
+    "cancel_pct": 0.11,
+    "avg_delay_min": -7.3,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": 1,
+    "day": "Friday",
+    "flights": 15327,
+    "on_time_pct": 89.3,
+    "cancel_pct": 0.33,
+    "avg_delay_min": -4.4,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": 2,
+    "day": "Saturday",
+    "flights": 18621,
+    "on_time_pct": 81.1,
+    "cancel_pct": 1.12,
+    "avg_delay_min": 3.7,
+    "worst_day_years": 0,
+    "years": 10
+  },
+  {
+    "day_offset": 3,
+    "day": "Sunday",
+    "flights": 20047,
+    "on_time_pct": 73.7,
+    "cancel_pct": 1.37,
+    "avg_delay_min": 11.5,
+    "worst_day_years": 6,
+    "years": 10
+  },
+  {
+    "day_offset": 4,
+    "day": "Monday",
+    "flights": 19574,
+    "on_time_pct": 76.5,
+    "cancel_pct": 1.32,
+    "avg_delay_min": 9.3,
+    "worst_day_years": 2,
+    "years": 10
+  }
+]
